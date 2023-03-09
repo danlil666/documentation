@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Danli's site of documentation
+description: Documentation of Danli's work as a student at University of Washington
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://danlil666.github.io/documentation
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "My other site: ":
+    - "//danli-luo.com"
