@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "DXARTS 472: final presentation"
+date:   2023-05-23 11:07
+parent: "DigitalFabrication"
+---
+
+### introduction
+
+In this project, I intend to calibrate the relationship between human and non-human species that live around us. Leveraging a non-anthropocentric design approach, this work is focused on hardware implementation that is derived from bio-based fabrication to sustain further bio-based fabrication.
+
+In the research thread of sustainable interaction design between human and non-human species, scholars problematize the essence of human-centered design being anthropocentric and the dismissal of other species, mostly plants and animals, around humans. A multispecies and interspecies worldview is hence prioritized and appreciated in this current research agenda to reduce the environmental damage caused by technology abuse. Along this line of research, many design solutions are proposed based on the established rapport with field experts. These design solutions iterate on themselves and inform the future use of technology in sustainable HCI.
+
+A parallel body of research, human-food interaction, ranging from farming to cooking, from consumption to disposal, opens new possibilities for introducing technological methods and interventions to augment interaction with food and materials. While sustainable farming crosses the ground of multispecies and interspecies interaction, sustainable harvesting of food sources is rarely presented in a recyclable fashion - no existing work has examined the full life cycle from harvesting to composting, not to mention different possibilities of processing derived biomaterials in the middle. Omitting the origin of food sources and their end-of-life treatment only highlights the human-centeredness of design and technology and severs the bond to nature and the environment where all the food comes from. This incentivizes my research to push small-scale systems, such as at-home food production and composting, to reconnect humans to nature, raise awareness of pressing issues, and celebrate nature.
+
+
+### materials
+
+In this hybrid fabrication exploration, the following materials and components are used.
+
+*Mycelium growing media*: mycelium can develop on different media depending on the type of mushroom. To enable further shaping and sculpturing, I mainly use pcoffee ground mixed with less than 10% of sawdust for aeration, both are bio-friendly and recycled materials. In addition, I added ~1% of carboxymethyl cellulose (CMC) to thicken the mixture for sculpturing/plastering, and ~5% of wheat flour to provide nutrients for the mycelium. Note that these percentages are relative to the weight of substrate.
+
+*Mushroom spawn*: I used the mushroom spawn I acquired from [Shroom Stop](https://www.shroomstop.ca/) while I was in Vancouver at the beginning of this quarter. I'm so happy to see it grow and shape into the final project!
+
+*Molds*: I ended up plastering the mushroom substrate onto a pre-made mold. molding is the easiest way to shape and form mycelium composite. Different molds will be designed and made by other digital fabrication methods such as 3D printing. Plastic mold is easy to customize by 3D printing, and off-the-shelf silicone molds are also useful for prototyping.
+
+### final implementation and presentation
+
+I designed and fabricated this care-based mushroom growing system that connects the care-giver's (me, and you, all the humans surrounded by fungi and intending to take care of them) and the mushroom's living environment and physiological data through a breathing mask that looks like this:
+
+![mask](../../files/dxarts472/IMG_3144.JPG)
+
+It is made of mycelium-inoculated coffee ground plastered around a pre-designed mold. The medium has been incubated for one week and dried for 8 hours in an oven. The mask has a pulse sensor (at where the green LED comes from) that measures the care-giver's heart beat and translates that to the frequency of the LED blinking inside of the growth chamber as a source of light for the mushroom. The mask itself is also connected to the growth chamber in a (ideally, but not practically) closed environment via a tube so that the muchroom and the care-giver share the same air.
+
+![wholeSystem](../../files/dxarts472/IMG_3143.JPG)
+
+The cap of the growth chamber is also made by plastering mycelium substrate around a pre-made mold. A LED strip and a CO2/temperature/humidity sensor are attached on the inside of the cap. The cap also supports the microcontroller that connects to all the electronics.
+
+![cap](../../files/dxarts472/IMG_3145.JPG)
+
+Finally, you see me wear the mask and tend the mushroom.
+
+![show](../../files/dxarts472/IMG_5745.jpeg)

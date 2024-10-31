@@ -2,7 +2,7 @@
 layout: post
 title:  "Assignment 4 - The History of King Wu of Qin"
 date:   2021-10-27 11:30PM
-parent: "posts"
+parent: "MakingIt"
 ---
 A brief history lesson of the reigning life of King Wu of Qin would walk you through the making process of this project. Hear me out.
 
@@ -16,69 +16,69 @@ A brief history lesson of the reigning life of King Wu of Qin would walk you thr
 
 I want to build something functional so I go with furniture. I have a shelf full of pots of plants, and I want to divert some attention to this shelf to distributed locations in the house.
 
-![stool](../../../../../files/project4/project4_stool.jpeg)
+![stool](../files/project4/project4_stool.jpeg)
 
 I wish to use three legs to cancel out the parallelogram effect, so I want to throw in a 3D printed joint.
 
-![joint1](../../../../../files/project4/project4_joint.jpeg)
+![joint1](../files/project4/project4_joint.jpeg)
 
 Here is what I have in mind:
 
-![sketch](../../../../../files/project4/project4_sketch.jpg)
+![sketch](../files/project4/project4_sketch.jpg)
 
 ## Modeling
 
 I modeled in 3D first before getting the cutting path.
 
-![joint2](../../../../../files/project4/project4_model.jpg)
+![joint2](../files/project4/project4_model.jpg)
 
 Cute little plant stand, right?
 
 Then it's about laying the cut pattern out on a 5 feet by 5 feet board. I realize stacking the rings concentrically will reduce some material waste.
 
-![rhinocut](../../../../../files/project4/project4_rhinocut.jpg)
+![rhinocut](../files/project4/project4_rhinocut.jpg)
 
 ## Making it
 
 I made the joint first to get ahead of the making before getting our hands on the Shopbot CNC machine.
 
-![jointprint](../../../../../files/project4/project4_jointprint.jpg)
+![jointprint](../files/project4/project4_jointprint.jpg)
 
 *In retrospective, this is the first sign of a huge mistake I am making. Let's go on for now.*
 
 There were some messy recollection about using the Shopbot but we've got three heads working together. I've got many layers cut from different angle.
 
-![shopbot](../../../../../files/project4/project4_shopbot.jpg)
+![shopbot](../files/project4/project4_shopbot.jpg)
 
 And press **START**!
 
-![cnc](../../../../../files/project4/project4_cnc.jpg)
+![cnc](../files/project4/project4_cnc.jpg)
 
 This is oddly satisfying. I watched the whole process.
 
-![cncgif](../../../../../files/project4/project4_cnc.gif)
+![cncgif](../files/project4/project4_cnc.gif)
 
 *Although this should have been my second clue of messing up.*
 
 The assembly is quite bitter. Because **this**
 
-![assembly](../../../../../files/project4/project4_assembly.jpg)
+![assembly](../files/project4/project4_assembly.jpg)
 
 **is**
 
-![assembly](../../../../../files/project4/project4_peak.jpg)
+![assembly](../files/project4/project4_peak.jpg)
 
 **HUGE**!
 
-![maker](../../../../../files/project4/project4_maker.jpg)
+![maker](../files/project4/project4_maker.jpg)
 
 The joint fits nicely.
 
-![withjoint](../../../../../files/project4/project4_withjoint.jpg)
+![withjoint](../files/project4/project4_withjoint.jpg)
 
 The concentric rings are nicely laid... Sort of.
 
-![top](../../../../../files/project4/project4_top.jpg)
+![top](../files/project4/project4_top.jpg)
 
 
 ## Reflection

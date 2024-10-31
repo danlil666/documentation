@@ -2,7 +2,7 @@
 layout: post
 title:  "Assignment 7 - final project proposal"
 date:   2021-11-22 17:17
-parent: "HCDE533"
+parent: "DigitalFabrication"
 ---
 For final project, I'm building a micro-brewery with continuous flow!
 
@@ -20,19 +20,19 @@ Such micro-brewery takes the form of bioreactors, which are vessels that convert
 
 First I sorted out all components and things I want to be able to monitor in this workflow.
 
-![parts](../../../../../files/533_7/parts.JPEG)
+![parts](../files/533_7/parts.JPEG)
 
 Then I chatted with Nadya and Junchao to consolidate the timeline and hopefully this project will grow into something bigger! But realistically, within the timeframe of this quarter, I wish to have a digitally fabricated compartmentalized prototype.
 
-![timeline](../../../../../files/533_7/timeline.JPEG)
+![timeline](../files/533_7/timeline.JPEG)
 
 So far I have planned a few layers to hold my sensors, motors, microcontroller, etc. 
 
-![allmodels](../../../../../files/533_7/allModels.JPEG)
+![allmodels](../files/533_7/allModels.JPEG)
 
 Eventually, the cap could be either round to fit the glass jar acting as a carboy or square to have slightly larger space.
 
-![2types](../../../../../files/533_7/2types.JPEG)
+![2types](../files/533_7/2types.JPEG)
 
 ## contingency
 
@@ -42,4 +42,4 @@ Having a functional micro-brewery might be a stretched goal. My contingency plan
 
 All files:
 
-[Rhino file](../../../../../files/533_7/Modular_Cap.3dm)
+[Rhino file](../files/533_7/Modular_Cap.3dm)

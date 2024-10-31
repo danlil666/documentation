@@ -2,7 +2,7 @@
 layout: post
 title:  "becoming a good home cook"
 date:   2022-02-18 11:08PM
-parent: "posts"
+parent: "MakingIt"
 ---
 
 This is the documentation of my current progress on making smart cookware.
@@ -46,7 +46,7 @@ The solid state relay is kind of new to me, especially when I live in the fear o
 
 I cut open the hot wire and connected the end that's going to the wall socket to #1 on the SSR and the other end that's going to the water heater to #2 on the SSR. #3 is connected to a digital output pin on the Arduino and #4 is sharing the common ground with Arduino.
 
-![SSR](../../../../../files/homecooker/SSR.jpg)
+![SSR](../files/homecooker/SSR.jpg)
 
 I simply used serial monitor to test if the circuit is working by putting the water heater into a cup of water. ***DO NOT TOUCH THE STEEL PART ON THE WATER HEATER WITH YOUR HAND*** when it's powered! And DO follow the instruction on using the water heater.
 
@@ -60,7 +60,7 @@ The product that I bought comes in with a connector terminal, which is easier to
 
 This low-budget mechanical stirrer uses a DC motor and a propeller and a pulley system to drive. I 3D printed a holder to fit the motor and the axle. [This is a good reference](https://youtu.be/pcNvC3UnjWs) for a way to arrange all components.
 
-![motor_clamp](../../../../../files/homecooker/motor_clamp.jpg)
+![motor_clamp](../files/homecooker/motor_clamp.jpg)
 
 I used an [IRLB8721 transistor](https://aws1.discourse-cdn.com/arduino/optimized/4X/4/e/6/4e6ed00a48e51eaa05c1c7201d19b298c6631c0d_2_1024x560.png) to turn the motor on and off, this will be especially useful when I switch to a high-torque motor that requires a higher power supply. I also connected the motor to a PWM pin so that I can control its speed.
 
@@ -80,15 +80,15 @@ This is the simplest part and could be skipped. However, make sure the current-l
 
 And the whole circuit diagram is here:
 
-![circuit_diagram](../../../../../files/homecooker/circuit_diagram.jpg)
+![circuit_diagram](../files/homecooker/circuit_diagram.jpg)
 
 Everything is unpolished just yet.
 
-![circuit_rough](../../../../../files/homecooker/circuit_rough.JPG)
+![circuit_rough](../files/homecooker/circuit_rough.JPG)
 
 I replaced all the jumper wires with less messy breadboard wires. These wires stick better to the breadboard, though I had to rearrange some components to minimize wire crossing. In this photo, the LEDs are moved from pin 2 and pin 3 to pin 12 and pin 13 to make room, and I forgot to wire pin 7 to the gate of the transistor. Use this as only a stylistic reference.
 
-![circuit_arranged](../../../../../files/homecooker/circuit_arranged.JPG)
+![circuit_arranged](../files/homecooker/circuit_arranged.JPG)
 
 **Code**
 
@@ -219,9 +219,9 @@ Noted that I set the upper bound and lower bound because I did not want to exaus
 
 I got a big pot of water and taped everything I needed in water on the side of the pot. When I turn it on, the heater will start heating and the motor will start stirring. 
 
-![heating](../../../../../files/homecooker/heating.gif)
+![heating](../files/homecooker/heating.gif)
 
 When the temp goes beyond my set limit, everything is shut off until the temp drops below the lower bound.
 
-![stablize](../../../../../files/homecooker/stablize.gif)
+![stablize](../files/homecooker/stablize.gif)
 

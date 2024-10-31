@@ -1,9 +1,9 @@
-title: Danli's site of documentation
+title: Docs of production
 description: Documentation of Danli's work as a student at University of Washington
 theme: just-the-docs
 
-url: https://danlil666.github.io/documentation
+url: https://danlil666.github.io/
 
 aux_links:
-  "My other site: ":
+  "My other site [click]":
     - "//danli-luo.com"

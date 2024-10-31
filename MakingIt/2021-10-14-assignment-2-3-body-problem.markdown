@@ -2,7 +2,7 @@
 layout: post
 title:  "Assignment 2 - The Three-Body Problem"
 date:   2021-10-14 10:05
-parent: "posts"
+parent: "MakingIt"
 ---
 Today we are making sensors and visualizing the sensor signal in Rhino by a Grasshopper add-on called Firefly.
 
@@ -30,11 +30,11 @@ I compared roving wool and wool yarn, both twisted with conductive yarn.
 
 The both have similar range of analog readings as shown in the figures below. The roving wool shows slightly better stability in reading. However, the yarn design is squeezed tighter in the test. When I tried twisting the roving wool into a tighter blob, the reading range decreased. Thus, the wool yarn+conductive thread swatch is chosen to be made into a sensor.
 
-![figure1](../../../../../files/project2/project2_testwool.jpg)
+![figure1](../files/project2/project2_testwool.jpg)
 
-![gif1](../../../../../files/project2/project2_testwool.gif)
+![gif1](../files/project2/project2_testwool.gif)
 
-![figure2](../../../../../files/project2/project2_testyarn.jpg)
+![figure2](../files/project2/project2_testyarn.jpg)
 
 ## Making
 
@@ -46,11 +46,11 @@ Another reason for using yarn over loose wool, although the crafting technique i
 
 The felted yarn symbolizes entanglement, yet the sanity of the machine guarantees order. I shaped the sensor in a fashion that is similar to this machine - layering yarns in a path and felting along the way. Eventually, there are two layers of yarn patterned as grid to enhance entanglement and an extra layer on top to conceal the conductive yarn.
 
-![sweater](../../../../../files/project2/project2_sweater.jpg)
+![sweater](../files/project2/project2_sweater.jpg)
 
 The circuit is very simple. It is supposed to read analog input. There is a resistor for buffering.
 
-![final](../../../../../files/project2/project2_final.jpg)
+![final](../files/project2/project2_final.jpg)
 
 ## Visualization
 
@@ -60,9 +60,9 @@ This part was initially daunting for me, a Rhino/Grasshopper novice, but I ended
 
 I will have to give the tutorial a lot of credit in creating this Grasshopper/Firefly file.
 
-![firefly](../../../../../files/project2/project2_Capture.PNG)
+![firefly](../files/project2/project2_Capture.PNG)
 
 Here is a *live* demo:
 
-![final](../../../../../files/project2/project2_demo.gif)
+![final](../files/project2/project2_demo.gif)
 
