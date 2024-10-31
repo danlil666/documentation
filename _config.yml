@@ -1,9 +1,13 @@
 title: Docs of production
 description: Documentation of Danli's work as a student at University of Washington
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: https://danlil666.github.io/
 
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  
 aux_links:
   "My other site [click]":
     - "//danli-luo.com"
