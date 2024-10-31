@@ -10,20 +10,20 @@ In the pursuit of cultivating mushroom and recycling the spent soil, I've built 
 
 After figuring out sensors, form factor, LEDs ([Arduino code here](../files/dxarts472/pulse_neo_co2)), I started layering the ground for mushroom inoculation. I have been taking care of the mushroom grow kit that I bought at the beginning of this quarter till now, and I see changes everyday as the mycelium grows and develops into a network.
 
-![mycelium](../../files/dxarts472/IMG_3075.JPG)
+![mycelium](../files/dxarts472/IMG_3075.JPG)
 
 Big mushroom, small mushroom bunches!
 
-![mushrooms](../../files/dxarts472/IMG_3074.JPG)
+![mushrooms](../files/dxarts472/IMG_3074.JPG)
 
 Now it's time to transfer the growth into the jar I plant sensors and lights in. In a 2L maison jar, I layered a premix of mushroom medium made of (possibly) saw dust and rye berries, coffee ground I collected from my daily coffee routine, until I have a decent depth.
 
-![layers](../../files/dxarts472/IMG_3081.JPG)
+![layers](../files/dxarts472/IMG_3081.JPG)
 
 The spent medium that has been inoculated with mycelium for weeks, right before it starts fruiting, is broken down into particles and mixed with some flour and thickener for molding. The general procedure is taken from this [tutorial](https://www.youtube.com/watch?v=Tdu63vb7fJk&ab_channel=GROW.bio).
 
-![mix](../../files/dxarts472/IMG_3078.JPG)
+![mix](../files/dxarts472/IMG_3078.JPG)
 
 Let's hope for some fruiting in a week!
 
-![fruiting](../../files/dxarts472/IMG_3079.JPG)
+![fruiting](../files/dxarts472/IMG_3079.JPG)

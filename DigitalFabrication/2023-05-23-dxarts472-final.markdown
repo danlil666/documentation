@@ -28,16 +28,16 @@ In this hybrid fabrication exploration, the following materials and components a
 
 I designed and fabricated this care-based mushroom growing system that connects the care-giver's (me, and you, all the humans surrounded by fungi and intending to take care of them) and the mushroom's living environment and physiological data through a breathing mask that looks like this:
 
-![mask](../../files/dxarts472/IMG_3144.JPG)
+![mask](../files/dxarts472/IMG_3144.JPG)
 
 It is made of mycelium-inoculated coffee ground plastered around a pre-designed mold. The medium has been incubated for one week and dried for 8 hours in an oven. The mask has a pulse sensor (at where the green LED comes from) that measures the care-giver's heart beat and translates that to the frequency of the LED blinking inside of the growth chamber as a source of light for the mushroom. The mask itself is also connected to the growth chamber in a (ideally, but not practically) closed environment via a tube so that the muchroom and the care-giver share the same air.
 
-![wholeSystem](../../files/dxarts472/IMG_3143.JPG)
+![wholeSystem](../files/dxarts472/IMG_3143.JPG)
 
 The cap of the growth chamber is also made by plastering mycelium substrate around a pre-made mold. A LED strip and a CO2/temperature/humidity sensor are attached on the inside of the cap. The cap also supports the microcontroller that connects to all the electronics.
 
-![cap](../../files/dxarts472/IMG_3145.JPG)
+![cap](../files/dxarts472/IMG_3145.JPG)
 
 Finally, you see me wear the mask and tend the mushroom.
 
-![show](../../files/dxarts472/IMG_5745.jpeg)
+![show](../files/dxarts472/IMG_5745.jpeg)
